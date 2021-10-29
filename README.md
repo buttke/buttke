@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @buttke
-- 👀 I’m interested in Ansible, System Administration, C
+- 👋 Hello, I’m @buttke
+- 👀 I’m interested in Ansible, UNIX System Administration, C, Cybersecurity
