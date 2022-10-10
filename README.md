@@ -1,3 +1,3 @@
 # [Nate Buttke](https://nategb.xyz)
-- 👋 Hello, I’m @buttke
-- 👀 I’m interested in Ansible, UNIX System Administration, C, Cybersecurity
+###[https://nategb.xyz](https://nategb.xyz)
+UNIX, C, Cybersecurity
